@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="App settings">
+        <CheckBoxPreference
+            android:title="Bold Text"
+            android:key="bold"
+            android:defaultValue="false"/>
+    </PreferenceCategory>
+</PreferenceScreen>
